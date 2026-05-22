@@ -1,0 +1,6 @@
+{
+  "name": "Echo-Location",
+  "description": "Indoor Active Acoustic Echolocation Mapping for the visually impaired, translating room depths into real-time tactile and spatial audio guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
